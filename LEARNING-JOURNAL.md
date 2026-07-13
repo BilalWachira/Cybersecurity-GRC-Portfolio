@@ -17,3 +17,9 @@ I learned that ISO files are disk images used to install operating systems into 
 
 ### Next Steps
 Create my first virtual machine (TS-DC01) and install Windows Server 2022.
+
+## Lesson Learned
+
+I discovered that Windows was displaying my ISO files as "WinRAR archive (.iso)". Initially, I thought they needed to be extracted, but I learned that WinRAR was simply the default application associated with ISO files.
+
+This reinforced the importance of checking the file extension rather than relying on the icon or application name before taking action.
