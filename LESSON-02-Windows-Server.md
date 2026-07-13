@@ -55,3 +55,45 @@ The disk is large enough to support Windows Server 2022 and future services such
 ### Lesson Learned
 
 Virtual machines use virtual disk files (VDI) that behave like physical hard drives to the guest operating system.
+
+---
+
+## Server Information
+
+| Setting | Value |
+|---------|-------|
+| Name | TS-DC01 |
+| Operating System | Windows Server 2022 Evaluation |
+| Memory | 4096 MB |
+| Processors | 2 vCPUs |
+| Disk | 60 GB |
+| Allocation | Dynamically Allocated |
+
+---
+
+## Why These Settings?
+
+The configuration balances performance with efficient resource usage on the host laptop while providing sufficient capacity for future Active Directory, DNS and DHCP services.
+
+---
+
+## Enterprise Perspective
+
+In a production environment, server specifications are selected based on workload, scalability, business requirements and availability.
+
+---
+
+## GRC Perspective
+
+Proper documentation of server configurations supports:
+- Asset Management
+- Capacity Planning
+- Change Management
+- Risk Assessments
+- Audit Evidence
+
+---
+
+## Lessons Learned
+
+Today I learned how to configure the hardware requirements of a Windows Server virtual machine before installation.
