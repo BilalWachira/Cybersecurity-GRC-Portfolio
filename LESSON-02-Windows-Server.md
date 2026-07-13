@@ -37,3 +37,21 @@ The configuration provides enough resources for Windows Server 2022 while mainta
 ### Lesson Learned
 
 Resource allocation is a balance. Assigning too little memory can reduce server performance, while assigning too much can negatively affect the host system.
+
+## Virtual Disk Configuration
+
+### Disk Size
+
+60 GB
+
+### Allocation Method
+
+Dynamically Allocated
+
+### Why I Chose This
+
+The disk is large enough to support Windows Server 2022 and future services such as Active Directory, DNS and DHCP while conserving physical disk space on the host laptop.
+
+### Lesson Learned
+
+Virtual machines use virtual disk files (VDI) that behave like physical hard drives to the guest operating system.
