@@ -1,68 +1,66 @@
-# Cybersecurity GRC Portfolio
+# Bilal Wachira
 
-Welcome to my professional cybersecurity portfolio.
+## Aspiring Governance, Risk & Compliance (GRC) Professional
 
-This repository serves as the central hub for my cybersecurity journey, documenting my projects, learning, and hands-on experience as I work towards a career in Governance, Risk & Compliance (GRC) and ultimately a Chief Information Security Officer (CISO).
+Welcome to my cybersecurity portfolio.
 
----
+I am building my career in **Governance, Risk & Compliance (GRC)** by combining cybersecurity theory, hands-on technical labs, documentation, automation and continuous learning.
 
-# About Me
-
-I am an aspiring cybersecurity professional with a strong interest in Governance, Risk & Compliance (GRC), information security, and cyber risk management.
-
-I believe that cybersecurity is not only about technology but also about protecting businesses through effective governance, sound risk management, and compliance with security frameworks.
-
-This portfolio showcases my practical projects, home lab, security documentation, automation scripts, and continuous learning.
+This repository serves as the central hub for my cybersecurity journey as I work towards becoming a **Chief Information Security Officer (CISO)**.
 
 ---
 
-# Current Learning
+# 🧭 Navigation
 
-- CompTIA Security+
-- Python for Cybersecurity
-- PowerShell Automation
-- Governance, Risk & Compliance (GRC)
-- ISO/IEC 27001
-- NIST Cybersecurity Framework (CSF)
-- Risk Assessments
-- Security Policy Development
-- Microsoft Security Technologies
+- [🚀 Current Focus](#-current-focus)
+- [📂 Repository Directory](#-repository-directory)
+- [🛣 Career Roadmap](#-career-roadmap)
+- [🏆 Certifications](#-certifications)
+- [💡 Technical Skills](#-technical-skills)
+- [📫 Connect With Me](#-connect-with-me)
+
+---
+
+# 🚀 Current Focus
+
+I am currently focusing on:
+
+- CompTIA Security+ (SY0-701)
+- Windows Server 2022
 - Active Directory
-- Home Lab Development
-- Hack The Box
+- Oracle VM VirtualBox
+- Enterprise Home Lab
+- Governance, Risk & Compliance (GRC)
+- Python Fundamentals
+- Git & GitHub
+- Technical Documentation
 
 ---
 
-# Featured Projects
+# 📂 Repository Directory
 
-## 📂 Repository Directory
-
-| Repository | Purpose | Status |
-|------------|---------|--------|
-| Cybersecurity-Home-Lab | Enterprise home lab documentation | 🟡 In Progress |
-| CompTIA-Security-Plus-Notes | Security+ study notes and practical connections | 🟡 In Progress |
-
-Coming soon...
-
-- Enterprise Risk Assessment
-- Security Policy Pack
-- Python GRC Automation
-- PowerShell Security Auditing
-- Cybersecurity Home Lab
-- Hack The Box Learning Journal
-- Security+ Notes
+| Repository | Description | Status |
+|------------|-------------|--------|
+| [Cybersecurity Home Lab](https://github.com/BilalWachira/Cybersecurity-Home-Lab) | Enterprise cybersecurity home lab documenting Windows Server, Active Directory, networking and security tools. | 🟡 In Progress |
+| [CompTIA Security+ Notes](https://github.com/BilalWachira/CompTIA-Security-Plus-Notes) | Personal SY0-701 study notes with practical home lab connections and GRC insights. | 🟡 In Progress |
+| Enterprise Risk Assessment | Enterprise risk assessment project. | ⚪ Planned |
+| Security Policy Pack | Collection of professional security policies and standards. | ⚪ Planned |
+| Hack The Box Learning | Documentation of Hack The Box machines and lessons learned. | ⚪ Planned |
+| Python GRC Automation | Python scripts for cybersecurity and GRC automation. | ⚪ Planned |
+| PowerShell Security Auditing | PowerShell scripts for Windows security administration and auditing. | ⚪ Planned |
+| Microsoft SC-900 Notes | Microsoft Security, Compliance and Identity study notes. | ⚪ Planned |
+| ISO 27001 Lab | Practical ISO/IEC 27001 implementation project. | ⚪ Planned |
 
 ---
 
-# Career Roadmap
+# 🛣 Career Roadmap
 
-Current Goal
-
+```
 CompTIA Security+
 
 ↓
 
-Cybersecurity GRC Analyst
+Junior GRC Analyst
 
 ↓
 
@@ -78,51 +76,106 @@ Information Security Manager
 
 ↓
 
-Director of Information Security
-
-↓
-
 Chief Information Security Officer (CISO)
+```
 
 ---
 
-# Skills Being Developed
+# 📈 Current Progress
 
-- Cybersecurity Governance
-- Risk Management
-- Compliance
-- Security Controls
-- Risk Registers
-- Security Policies
-- Audit Preparation
-- Python
-- PowerShell
-- Networking
-- Windows
-- Linux
-- Active Directory
-- Microsoft Azure
-- Cloud Security
+| Area | Progress |
+|------|----------|
+| GitHub Portfolio | 🟢 Started |
+| Home Lab | 🟢 In Progress |
+| CompTIA Security+ | 🟢 In Progress |
+| Python | ⚪ Planned |
+| Hack The Box | ⚪ Planned |
+| GRC Projects | ⚪ Planned |
+| Microsoft SC-900 | ⚪ Planned |
+| ISO 27001 | ⚪ Planned |
 
 ---
 
-# Certifications
+# 🏆 Certifications
 
-In Progress
+## Currently Studying
 
-- CompTIA Security+
+- CompTIA Security+ (SY0-701)
 
-Planned
+## Planned Certifications
 
 - Microsoft SC-900
 - ISO/IEC 27001 Lead Implementer
-- CISA
-- CISM
-- CRISC
+- ISC2 Certified in Cybersecurity (CC)
+- CompTIA CySA+
+- ISACA CISA
+- ISACA CISM
+- ISACA CRISC
 
 ---
 
-# Connect With Me
+# 💡 Technical Skills
 
-LinkedIn:
+### Operating Systems
+
+- Windows 11
+- Windows Server 2022 (Learning)
+- Kali Linux (Learning)
+
+### Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- Network Fundamentals
+
+### Security
+
+- Governance, Risk & Compliance (GRC)
+- Security Controls
+- Risk Management
+- Identity & Access Management
+- Security Documentation
+
+### Tools
+
+- Oracle VM VirtualBox
+- Git
+- GitHub
+- Visual Studio Code
+- Python
+- PowerShell (Learning)
+
+---
+
+# 🎯 Learning Philosophy
+
+I believe that cybersecurity is best learned by combining:
+
+- 📚 Theory
+- 🛠 Hands-on Practice
+- 📝 Documentation
+- 💼 Professional Portfolio Development
+- 🎤 Interview Preparation
+
+Every project in this portfolio reflects practical learning and continuous improvement.
+
+---
+
+# 📫 Connect With Me
+
+**LinkedIn**
+
 https://www.linkedin.com/in/bilalmainawachira/
+
+**Email**
+
+bilalwachira@aol.com
+
+---
+
+# 📌 Portfolio Status
+
+This portfolio is continuously updated as I progress through certifications, home lab projects, GRC projects and practical cybersecurity exercises.
+
+Thank you for visiting my GitHub.
