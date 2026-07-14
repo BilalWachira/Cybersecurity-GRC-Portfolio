@@ -35,6 +35,13 @@ This portfolio showcases my practical projects, home lab, security documentation
 
 # Featured Projects
 
+## 📂 Repository Directory
+
+| Repository | Purpose | Status |
+|------------|---------|--------|
+| Cybersecurity-Home-Lab | Enterprise home lab documentation | 🟡 In Progress |
+| CompTIA-Security-Plus-Notes | Security+ study notes and practical connections | 🟡 In Progress |
+
 Coming soon...
 
 - Enterprise Risk Assessment
